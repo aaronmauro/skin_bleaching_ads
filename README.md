@@ -23,6 +23,7 @@ This is a data analysis of skin bleaching ads from Ebony and Drum magazines over
 __author__ = "Aaron Mauro"
 __role__ = "researcher"
 __institution__ = "Brock University"
+__department__ = "Centre for Digital Humanities"
 __email__ = "amauro@brocku.ca"
 __status__ = "prototype/experiment"
 __version__ = "0.1"
